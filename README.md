@@ -1,6 +1,6 @@
 # Modelos Y Clasificación  Modelos de N-gramas
 
-Este proyecto consiste en un análisis básico de n-gramas (2-gramas y 3-gramas) aplicado a un corpus en español relacionado con la educación. Se utiliza Python y bibliotecas comunes. .
+Este proyecto forma parte de la materia Técnicas del Procesamiento del Habla, consiste en un análisis básico de n-gramas (2-gramas y 3-gramas) aplicado a un corpus en español relacionado con la educación. Se utiliza Python y bibliotecas comunes. .
 
 ---
 
